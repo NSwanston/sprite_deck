@@ -22,6 +22,25 @@ namespace myImages {
 . . . . 5 5 5 5 5 5 5 . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image2":
+            case "myImage0":return img`
+. . . . . e e . . e e e . . . . 
+. . . . e e e . e e e e . . . . 
+. . . . e e e . e e e e . . . . 
+. . . . e e e . e e e . . . . . 
+. . . . e e e . e e e . . . . . 
+. . . . e e e . e e e . . . . . 
+. . . . e e e e e e e . . . . . 
+. . . e e e e e e e e e e . . . 
+. . e e e e 1 e 1 e e e e . . . 
+. . e e e e e e e e e e e e . . 
+. . e e e e e e e e 1 e e e . . 
+. . e e e e e e e 1 1 e e e . . 
+. . e e e e e e 1 1 e e e e . . 
+. . e e e e 1 1 1 e e e e e . . 
+. . . e e e e e e e e e e . . . 
+. . . e e e e e e e e e . . . . 
+`;
         }
         return null;
     })
